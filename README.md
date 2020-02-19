@@ -8,3 +8,6 @@ Some planetary imagery is derived from work by Steve Albers and NASA / Jet Propu
 The Churyumov and Halley textures come from the [RSS Expansion](https://github.com/PhineasFreak/RSSExpansion) mod, originally by pozine.
 All the original textures come from the RSS-Textures repository (https://github.com/KSP-RO/RSS-Textures) licensed CC-BY-NC-SA by the KSP-RO team.
 Some of the textures were modified by Kierra1.
+
+
+
